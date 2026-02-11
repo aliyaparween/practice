@@ -12,6 +12,8 @@ public class Addition {
 		int b=sc.nextInt();
 		int c= a+b;
 		System.out.println("Addition of "+a+" and "+b+ " is: "+c);
+		int d=a*b;
+		System.out.println("Multiplication of "+a+" and "+b+"is: "+d);
 		System.out.println("Calculator program ended.");
 		sc.close();
 		
